@@ -166,6 +166,8 @@ inputField.addEventListener('keydown', e => {
 
             inputField.value = '';
             currentWordIdx++;
+            if (typingMode === 'word')
+                document.querySelector(`#countdown`).innerHTML = wordList.length - currentWordIdx;
         }
     }
 });
