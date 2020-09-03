@@ -1,2 +1,2 @@
-# natt
-not another typing test
+# 10 faster fingers
+imagine 10fastfingers without all the ads and general garbage
